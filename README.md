@@ -6,7 +6,11 @@ There are also some grasshopper scripts / workflows which pairs with the C# Comp
 
 APPLICATION
 ***********
-Documentation coming soon!!
+CSV Parsing in C#
+
+WPF(Windows Presentation Foundation) in C#
+
+(Will add more as I upload)
 
 
 COPYRIGHT & LICENSING

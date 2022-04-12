@@ -1,0 +1,7 @@
+C:\Users\ashinde\source\repos\CSV_ValueList\obj\Debug\CSV_ValueList.csproj.AssemblyReference.cache
+C:\Users\ashinde\source\repos\CSV_ValueList\obj\Debug\CSV_ValueList.csproj.CoreCompileInputs.cache
+C:\Users\ashinde\source\repos\CSV_ValueList\bin\Debug\CSV_ValueList.exe.config
+C:\Users\ashinde\source\repos\CSV_ValueList\bin\Debug\CSV_ValueList.exe
+C:\Users\ashinde\source\repos\CSV_ValueList\bin\Debug\CSV_ValueList.pdb
+C:\Users\ashinde\source\repos\CSV_ValueList\obj\Debug\CSV_ValueList.exe
+C:\Users\ashinde\source\repos\CSV_ValueList\obj\Debug\CSV_ValueList.pdb

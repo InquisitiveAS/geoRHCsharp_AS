@@ -1,8 +1,8 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1wvh4hO1Rr_uNJhs3CEFQSPFWf8NYItmR)
 
-C# and .NET PROJECT
-====================
+C# , .NET CORE and .NET FRAMEWORK PROJECT
+========================================
 
 BACKGROUND
 ----------

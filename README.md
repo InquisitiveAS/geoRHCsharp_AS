@@ -1,8 +1,8 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1wvh4hO1Rr_uNJhs3CEFQSPFWf8NYItmR)
 
-COMPUTATIONAL DESIGN PACKAGE IN C# 10.0,.NET CORE and .NET FRAMEWORK 
-====================================================================
+COMPUTATIONAL DESIGN  AND SOFTWARE DEVELOPMNENT PROJECTS IN C# 10.0,.NET CORE and .NET FRAMEWORK 
+===============================================================================================
 
 BACKGROUND
 ----------

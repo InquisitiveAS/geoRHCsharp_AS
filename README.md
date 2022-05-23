@@ -1,8 +1,8 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1wvh4hO1Rr_uNJhs3CEFQSPFWf8NYItmR)
 
-C# , .NET CORE and .NET FRAMEWORK CAD COMPUTATIONAL DESIGN PACKAGE
-==================================================================
+COMPUTATIONAL DESIGN PACKAGE IN C# 10.0,.NET CORE and .NET FRAMEWORK 
+====================================================================
 
 BACKGROUND
 ----------

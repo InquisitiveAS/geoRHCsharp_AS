@@ -13,9 +13,8 @@ There are also some grasshopper scripts / workflows which pairs with the C# Comp
 APPLICATION
 -----------
 * CSV Parsing in C#
-
 * WPF(Windows Presentation Foundation) in C#
-
+* Data Structure and Algorithms in C#(Coming soons!)
 * (Will add more as I upload- Coming Soon !!!)
 
 

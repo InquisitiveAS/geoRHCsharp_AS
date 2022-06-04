@@ -12,8 +12,8 @@ There are also some grasshopper scripts / workflows which pairs with the C# Comp
 
 APPLICATION
 -----------
-* CSV Parsing in C#
-* WPF(Windows Presentation Foundation) in C#
+* CSV Parsing in C# - External VS Code
+* WPF(Windows Presentation Foundation) in C# - External VS Code
 * Data Structure and Algorithms in C#(Coming soon!)
 * Grasshopper Plugin developed in C#(Coming soon!)
 * (Will add more as I upload- Coming Soon !!!)

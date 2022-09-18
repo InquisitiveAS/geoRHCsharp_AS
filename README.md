@@ -1,8 +1,9 @@
 
-![image](https://drive.google.com/uc?export=view&id=15kzEFmYe1a-ap06Ip4O50GA0FWG7CP2M)
+![image](https://drive.google.com/uc?export=view&id=1Pjm2IC01ORnJZD-tVFWwAu9QiRG_byJp)
 
-COMPUTATIONAL DESIGN  AND SOFTWARE DEVELOPMENT PROJECTS IN C# 10.0,.NET CORE and .NET FRAMEWORK 
-===============================================================================================
+ABOUT
+=====
+Computational design workflows development using external C# scripts, C# Components inside Grasshopper-Rhino3d 
 
 BACKGROUND
 ----------

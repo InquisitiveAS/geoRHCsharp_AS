@@ -3,7 +3,7 @@
 
 ABOUT
 =====
-Computational design workflows development using external C# scripts, C# Components inside Grasshopper-Rhino3d 
+Computational design workflow development using external C# scripts, C# Components inside Grasshopper-Rhino3d 
 
 BACKGROUND
 ----------
